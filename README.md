@@ -7,7 +7,7 @@ You can play with:
  
  *Parsing => Get pars and search (Make your life easy)
  
- *Process Analysis => Get process name, ID etc, and kill process.
+ *Process Analysis => Get process name, ID etc, and kill them all!!
  
  *Web server Log File Analysis => Get IP, URL, responses and count them!!
  

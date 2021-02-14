@@ -7,4 +7,4 @@ for process in processes.Win32_Process():
         process.Terminate()
         check += 1
 if check == 0:
-    print("Process not found!!!")
+    print("Not found!")
